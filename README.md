@@ -1,4 +1,4 @@
-# Ship Mobile Fast AI
+# Lets learn to do fast
 
 [![Setup Guide](https://img.shields.io/badge/Setup-Guide-blue.svg)](SETUP.md)
 
